@@ -31,6 +31,17 @@ Sou fortemente focado em programação e performance.
 -   🧩 Projetos com máquina a laser
 -   🔐 Controle de tablets
 
+## 🔧 Ferramentas utilizadas 
+
+-    Programação: Scratch, Lego Wedo, Lego MInsdtorms NXT e Make Code (micro:bit).
+-    Realidade aumentada: Merge Cube, Quiver, Animal AR 3D Safari.
+-    Modelagem 3d: Tinkercad.
+-    Criação de Jogos: Wordwall, PowerPoint.
+-    Criação de conteúdo: Canva, BookCreator, Minecraft, Office 365.
+-    Inteligência Artificial: Criação de imagens no Canva, Chat Gpt.
+-    Robótica: Lego duplo, Lego Mindstorm Nxt, Lego Wedo, Matata lab, Micro:bit.
+-    Jogos Diversos.
+ 
 ---
 
 ## 🛠️ Tech Stack
