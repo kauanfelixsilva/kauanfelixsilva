@@ -12,8 +12,6 @@ Sou fortemente focado em programação e performance.
   <a href="https://github.com/kauanfelixsilva">
     <img src="https://img.shields.io/badge/GitHub-kauanfelixsilva-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/kauanzinnfx">
-  <img src="https://img.shields.io/badge/Instagram-@kauanzinnfx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/kauan-felix-da-silva-8a4546295/">
   <img src="https://img.shields.io/badge/LinkedIn-kauanfelixsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
