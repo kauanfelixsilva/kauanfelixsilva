@@ -17,7 +17,6 @@ Sou fortemente focado em programação e performance.
   <img src="https://img.shields.io/badge/LinkedIn-kauanfelixsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
 </p>
 
 ---
@@ -49,7 +48,6 @@ Sou fortemente focado em programação e performance.
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 
 ### Backend
 
