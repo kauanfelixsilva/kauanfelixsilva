@@ -1,4 +1,4 @@
-# Olá 👋, meu nome é Kauan Felix 
+# Olá 👋, meu nome é Kauan 
 
 🚀**Estagiário de TI & Tecnologia Educacional — suporte e uso de ferramentas digitais para apoio ao ensino e à aprendizagem.**
 
