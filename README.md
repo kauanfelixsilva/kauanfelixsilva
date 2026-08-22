@@ -56,7 +56,7 @@ Sou fortemente focado em programação e performance.
 
 ---
 
-### Batabases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
