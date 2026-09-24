@@ -65,6 +65,20 @@ Sistema desenvolvido para substituir o controle de vendas realizado em planilhas
 - Validação de campos e máscaras de CPF e telefone
 - Consultas ao banco de dados
 
+### 🤖 Curiosidades de Tecnologia — História do Mascote do Android
+
+Página informativa sobre a história do mascote do Android, apresentando a evolução dos Dandroids até o Bugdroid.
+
+**Tecnologias:** HTML5 • CSS3
+
+- Estrutura semântica em HTML5
+- Layout responsivo
+- Imagens adaptáveis com `<picture>`
+- Incorporação de vídeo do YouTube
+- Fonte personalizada com `@font-face`
+- Variáveis CSS
+- Media Queries
+
 ## 🛠️ Tech Stack
 
 ### Frontend
