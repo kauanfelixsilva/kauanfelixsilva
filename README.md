@@ -1,9 +1,7 @@
 # Olá 👋, meu nome é Kauan Felix
 
-🚀**Estagiário de TI & Tecnologia Educacional — suporte e uso de ferramentas digitais para apoio ao ensino e à aprendizagem.**
+Estagiário de TI com foco em desenvolvimento de software, atualmente estudando desenvolvimento web e construindo projetos práticos com PHP, Python, JavaScript e MySQL.
 
-Eu ajudo na criação de aulas didáticas e digitais, além de prestar suporte a equipamentos técnicos.
-Sou fortemente focado em programação e performance.
 ---
 
 ## 🌐 Onde me encontrar
@@ -12,7 +10,7 @@ Sou fortemente focado em programação e performance.
   <a href="https://github.com/kauanfelixsilva">
     <img src="https://img.shields.io/badge/GitHub-kauanfelixsilva-181717?style=for-the-badge&logo=github" />
   </a>
-</a>
+  
 <a href="https://www.linkedin.com/in/kauan-felix-da-silva-8a4546295/">
   <img src="https://img.shields.io/badge/LinkedIn-kauanfelixsilva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,23 +21,49 @@ Sou fortemente focado em programação e performance.
 
 ## 🧠 O que eu faço
 
--   🏗️ Suporte a equipamentos técnicos
--   ⚡ Suporte em sala de aula
--   🧩 Projetos com máquina a laser
--   🔐 Controle de tablets
+- 🖥️ Suporte técnico a equipamentos e usuários
+- 🎓 Apoio à tecnologia educacional em sala de aula
+- 📱 Gerenciamento e suporte de tablets
+- 🤖 Apoio em projetos de robótica e tecnologia
+- 💻 Desenvolvimento de projetos pessoais para aprendizado em programação
 
-## 🔧 Ferramentas utilizadas 
+## 🎓 Tecnologia Educacional
 
--    Programação: Scratch, Lego Wedo, Lego MInsdtorms NXT e Make Code (micro:bit).
--    Realidade aumentada: Merge Cube, Quiver, Animal AR 3D Safari.
--    Modelagem 3d: Tinkercad.
--    Criação de Jogos: Wordwall, PowerPoint.
--    Criação de conteúdo: Canva, BookCreator, Minecraft, Office 365.
--    Inteligência Artificial: Criação de imagens no Canva, Chat Gpt.
--    Robótica: Lego duplo, Lego Mindstorm Nxt, Lego Wedo, Matata lab, Micro:bit.
--    Jogos Diversos.
+Experiência com ferramentas e tecnologias utilizadas no apoio ao ensino:
+
+- Robótica: LEGO WeDo, LEGO Mindstorms NXT, Matata Lab e micro:bit
+- Realidade aumentada: Merge Cube, Quiver e Animal AR 3D Safari
+- Modelagem 3D: Tinkercad
+- Criação de atividades: Wordwall, PowerPoint e Canva
+- Ferramentas educacionais: BookCreator, Minecraft e Microsoft 365
+- Inteligência Artificial: criação de imagens e conteúdos com IA
  
 ---
+
+## 📌 Projetos em destaque
+
+### 💰 Sistema de Controle de Vendas — Perfumaria
+
+Sistema desenvolvido para substituir o controle de vendas realizado em planilhas.
+
+**Tecnologias:** PHP • MySQL • HTML • CSS • JavaScript
+
+- Cadastro de clientes
+- Cadastro de produtos
+- Registro de vendas
+- Controle de pagamentos
+- Controle de parcelas
+- Consultas ao banco de dados
+
+### 🔐 Sistema de Login e Cadastro
+
+- Cadastro de usuários
+- Login com e-mail e senha
+- Controle de sessão
+- Página restrita para usuários logados
+- Logoff seguro
+- Validação de campos e máscaras de CPF e telefone
+- Consultas ao banco de dados
 
 ## 🛠️ Tech Stack
 
@@ -56,8 +80,20 @@ Sou fortemente focado em programação e performance.
 
 ---
 
-### Database
+### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+
 
 ---
