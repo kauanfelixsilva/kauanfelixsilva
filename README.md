@@ -79,6 +79,20 @@ Página informativa sobre a história do mascote do Android, apresentando a evol
 - Variáveis CSS
 - Media Queries
 
+### 📜 Cordel Moderno
+
+Página desenvolvida para praticar HTML5 e CSS3, utilizando imagens de fundo, tipografia personalizada e efeitos de rolagem.
+
+**Tecnologias:** HTML5 • CSS3
+
+- HTML semântico
+- Imagens de fundo
+- `background-attachment: fixed`
+- Tipografia personalizada
+- Variáveis CSS
+- Unidades relativas (`vw`, `vh` e `em`)
+- Efeitos visuais com sombras
+
 ## 🛠️ Tech Stack
 
 ### Frontend
