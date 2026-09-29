@@ -122,6 +122,4 @@ Página desenvolvida para praticar HTML5 e CSS3, utilizando imagens de fundo, ti
 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-
-
 ---
