@@ -1,4 +1,4 @@
-Kauan Felix da Silva
+## Kauan Felix da Silva
 
 Estagiário de TI com foco em desenvolvimento de software, atualmente estudando desenvolvimento web e construindo projetos práticos com PHP, Python, JavaScript e MySQL.
 
