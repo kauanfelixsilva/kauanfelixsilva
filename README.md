@@ -112,6 +112,8 @@ Página desenvolvida para praticar HTML5 e CSS3, utilizando imagens de fundo, ti
 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
